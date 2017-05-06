@@ -1,2 +1,4 @@
 h1{color:#426493;}
-strong{color:#ff0000;}
+strong{
+  font-family: "Courier New", Courier, monospace;  
+  color:#ff0000;}
